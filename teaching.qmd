@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+---
+
+I teach probability, statistics, scientific computing, and machine learning.
+
+## University of Texas at Dallas
+
+### [STAT 6390](stat-6390.qmd)
+
+High Dimensional Probability and Statistics. Fall 2026.
+
+### STAT 6341
+
+Numerical Linear Algebra and Statistical Computing. Fall 2024-2026.
+
+### STAT 4352
+
+Mathematical Statistics. Spring 2025-2026.
+
+## University of Michigan
+
+### MATH 115
+
+Differential Calculus. Winter 2015, Fall 2017, Winter 2018.
+
+### MATH 116
+
+Integral Calculus. Fall 2016.
+
+## Teaching assistant experience
+
+- **STATS 509: Statistical Methods in Financial Models.** Winter 2020. Instructor: Brian Thelen.
+- **EECS 545: Machine Learning.** Fall 2018 and Fall 2019. Instructors: Clayton Scott and Alfred Hero.
+- **STATS 608: Monte Carlo Methods in Statistics.** Winter 2019. Instructor: XuanLong Nguyen.
+- **MATH 525: Stochastic Process.** Fall 2015. Instructor: Sergey Nadtochiy.
+- **MATH 623: Computational Finance.** Fall 2014. Instructor: Sergey Nadtochiy.
+- **MATH 216: Differential Equations.** Winter 2014. Instructor: Harry D'Souza.
+- **Michigan Math and Science Scholars Program.** Summer 2014. Instructor: Doug Shaw.
+- **MATH 571: Numerical Linear Algebra and Math Labs.** Fall 2013. Instructor: Shravan Veerapaneni.

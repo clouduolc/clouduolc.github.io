@@ -1,0 +1,40 @@
+---
+title: "Research"
+---
+
+## Publications
+
+::: {.publication-list}
+2026
+: XuanLong Nguyen, Yun Wei. [Optimal transport based theory for latent structured models](http://arxiv.org/abs/2601.11465). *Statistical Science*, accepted.
+
+2026
+: Yilei Zhang, Yun Wei, Aritra Guha, XuanLong Nguyen. [A Bayesian approach to learning mixtures of nonparametric components](https://arxiv.org/abs/2512.12988). Submitted.
+
+2025
+: Yuliang Xu, Yun Wei, Li Ma. [Distributional Evaluation of Generative Models via Relative Density Ratio](https://arxiv.org/abs/2510.25507). Submitted.
+
+2025
+: Lin Zhou, Qianyun Wang, Yun Wei, Jingjing Wang. [Large Deviations for Sequential Tests of Statistical Sequence Matching](https://arxiv.org/abs/2506.03976). Submitted.
+
+2023
+: Yun Wei, Sayan Mukherjee, XuanLong Nguyen. [Minimum Phi-distance estimators for finite mixing measures](https://arxiv.org/abs/2304.10052). Submitted.
+
+2023
+: Yun Wei, Bala Rajaratnam, Alfred Hero. [A unified framework for correlation mining in ultra-high dimension](http://arxiv.org/abs/2101.04715). *IEEE Transactions on Information Theory*.
+
+2022
+: Yun Wei, XuanLong Nguyen. [Convergence of de Finetti's mixing measure in latent structure models for observed exchangeable sequences](https://arxiv.org/abs/2004.05542). *The Annals of Statistics*.
+
+2022
+: Lin Zhou, Yun Wei, Alfred Hero. [Asymptotics for outlier hypothesis testing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jvjm95AAAAAJ&citation_for_view=jvjm95AAAAAJ:UeHWp8X0CEIC). *IEEE International Symposium on Information Theory*.
+
+2022
+: Lin Zhou, Yun Wei, Alfred Hero. [Second-order asymptotically optimal outlier hypothesis testing](https://arxiv.org/abs/2009.03505). *IEEE Transactions on Information Theory*.
+
+2021
+: Lin Zhou, Yun Wei, Alfred Hero. [Second-Order Asymptotically Optimal Universal Outlying Sequence Detection with Reject Option](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jvjm95AAAAAJ&citation_for_view=jvjm95AAAAAJ:2osOgNQ5qMEC). *IEEE Information Theory Workshop*.
+
+2012
+: Yun Wei, Yiming Jiang. [The Equivalence Proof of Three Combinatorial Solutions on the Problem of Rational Division of Stakes](https://sites.google.com/view/cloudwei/publications?authuser=0). *Acta Scientiarum Naturallum, Universitatis Nakaiensis* (in Chinese).
+:::

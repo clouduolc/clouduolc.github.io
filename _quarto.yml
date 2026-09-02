@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yun Wei"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: students.qmd
+        text: Students
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    left: "© 2026 Yun Wei"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    link-color: "#397083"
+    toc: false
+    link-external-newwindow: true
