@@ -2,10 +2,10 @@
 title: "Yun Wei"
 ---
 
+::: {.profile-grid}
+::: {.profile-main}
 ## About me
 
-::: {.home-grid}
-::: {.bio}
 I am an Assistant Professor of Statistics in the Department of Mathematical Sciences at the University of Texas at Dallas. I am broadly interested in foundations of AI, data science, statistics, and related fields.
 
 Previously, I was a postdoctoral researcher at SAMSI and the Department of Statistical Science at Duke University, where I worked with [Sayan Mukherjee](https://sayanmuk.github.io/) and [Eric Laber](https://www.laber-labs.com/).
@@ -13,32 +13,24 @@ Previously, I was a postdoctoral researcher at SAMSI and the Department of Stati
 I received my PhD in Applied and Interdisciplinary Mathematics from the University of Michigan, advised by [Alfred Hero](https://hero.engin.umich.edu/) and [XuanLong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/). I received my BS in Computational Mathematics from Nankai University.
 :::
 
-::: {.profile-panel}
-::: {.portrait aria-label="Yun Wei monogram placeholder" role="img"}
-YW
-:::
+::: {.profile-side}
+<img src="files/photo/yun-wei.jpg" alt="Yun Wei" class="homepage-photo" />
 
-::: {.caption}
-Replace this monogram with your portrait
-:::
-
-Email: [yun.wei@utdallas.edu](mailto:yun.wei@utdallas.edu) (work)  
+**Email:** [yun.wei@utdallas.edu](mailto:yun.wei@utdallas.edu) (work)  
 [cloudwei@umich.edu](mailto:cloudwei@umich.edu) (permanent)
-
-Office: FO 2.604D
 :::
 :::
 
 ## Research interests
 
-::: {.reference-cards}
-::: {.interest-card}
-### Research interests
+::: {.interest-grid}
+::: {.interest-group}
+### Theory and methods
 
-Latent variable models  
-High-dimensional statistics  
-Bayesian statistics  
-Generative models
+- Latent variable models
+- High-dimensional statistics
+- Bayesian statistics
+- Generative models
 :::
 :::
 
