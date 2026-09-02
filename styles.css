@@ -27,19 +27,87 @@ body.quarto-light {
 #quarto-content { max-width: 1040px; margin: 0 auto; padding: 24px 22px 48px; }
 #quarto-content { display: block; width: 100%; }
 #quarto-content main.content, #quarto-document-content { width: 100%; max-width: 1040px; }
+:root {
+  --ink: #18252e;
+  --muted: #5e6a72;
+  --paper: #f7f3ea;
+  --surface: #ffffff;
+  --navy: #163a52;
+  --blue: #26749a;
+  --blue-soft: #e9f1f5;
+  --coral: #c9634d;
+  --gold: #d8a447;
+  --rule: #dfe5e7;
+  --shadow: 0 14px 36px rgba(25, 48, 62, 0.08);
+}
+
+body.quarto-light {
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 8% 10%, rgba(216, 164, 71, 0.11), transparent 26rem),
+    radial-gradient(circle at 93% 36%, rgba(38, 116, 154, 0.08), transparent 30rem),
+    var(--paper);
+}
+
 #quarto-document-content section { display: block; border: 0; padding: 0; gap: 0; }
 #title-block-header { margin: 0; padding: 0; }
-#title-block-header .title, #quarto-document-content > h1:first-child { font-family: "Lora", Georgia, serif; color: var(--ink); font-size: 51px; font-weight: 700; margin: 0 0 8px; }
-#quarto-document-content > h2 { font-family: "Lora", Georgia, serif; color: var(--ink); font-size: 25px; font-weight: 700; margin: 26px 0 21px; }
-#quarto-document-content > h2::after { content: ""; display: block; width: 29px; border-bottom: 3px solid var(--accent); margin-top: 6px; }
-#quarto-document-content > h3, .reference-cards h3 { font-family: "Lora", Georgia, serif; color: var(--ink); font-size: 17px; font-weight: 700; margin-top: 26px; }
+#title-block-header .title, #quarto-document-content > h1:first-child { font-family: Georgia, "Times New Roman", serif; color: var(--navy); letter-spacing: -0.025em; font-size: clamp(2.15rem, 4vw, 3rem); font-weight: 600; line-height: 1.12; margin: 0 0 8px; }
+#quarto-document-content > h2 { margin-top: 2.25rem; margin-bottom: 0.85rem; padding-bottom: 0; border-bottom: 0; font-family: Georgia, "Times New Roman", serif; color: var(--navy); font-size: 1.48rem; font-weight: 700; line-height: 1.25; }
+#quarto-document-content > h2::after, .profile-main > h2::after { content: ""; display: block; width: 2.4rem; height: 3px; margin-top: 0.55rem; border-radius: 3px; background: linear-gradient(90deg, var(--coral), var(--gold)); }
+#quarto-document-content > h3, .reference-cards h3 { font-family: Georgia, "Times New Roman", serif; color: var(--navy); font-size: 1.12rem; font-weight: 680; line-height: 1.3; margin-top: 26px; }
 #quarto-document-content > p { max-width: 590px; }
-.home-grid { display: grid; grid-template-columns: minmax(0, 1fr) 285px; gap: 62px; width: 100%; max-width: 890px; }
-.bio p { max-width: 590px; }
+
+.profile-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(17rem, 0.88fr);
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: start;
+}
+
+.profile-grid::before {
+  position: absolute;
+  z-index: -1;
+  top: -4rem;
+  right: -5rem;
+  width: 15rem;
+  height: 15rem;
+  border: 1px solid rgba(201, 99, 77, 0.2);
+  border-radius: 48% 52% 63% 37% / 44% 38% 62% 56%;
+  content: "";
+  transform: rotate(16deg);
+}
+
+.profile-main > h2:first-child,
+.profile-side > h2:first-of-type {
+  margin-top: 0;
+}
+
+.profile-side {
+  padding: 0 0 1.25rem;
+}
+
+.homepage-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1.5rem;
+  border: 7px solid white;
+  border-radius: 46% 54% 48% 52% / 36% 42% 58% 64%;
+  box-shadow: var(--shadow);
+  transform: rotate(1.25deg);
+}
+
+.profile-side h2 {
+  font-size: 1.35rem;
+}
+
+.profile-side p,
+.profile-side a {
+  line-height: 1.6;
+}
+
 .news-callout { max-width: 590px; background: var(--callout); border-left: 3px solid #4c9bcc; padding: 11px 12px; font-size: 13px; line-height: 1.55; margin-bottom: 16px; }
-.profile-panel { padding-top: 3px; font-size: 13px; }
-.profile-panel .portrait { width: 188px; margin: 0 auto 12px; }
-.profile-panel .caption { text-align: center; margin-bottom: 11px; }
 .reference-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 38px; width: 100%; max-width: 850px; }
 .reference-cards > .interest-card { background: var(--warm); border: 1px solid #e7e4df; border-radius: 14px; box-shadow: 0 3px 8px rgba(37, 52, 50, .08); padding: 16px 20px 19px; }
 .reference-cards > div p { font-size: 13px; line-height: 1.8; margin-bottom: 0; }
@@ -49,6 +117,39 @@ body.quarto-light {
 .split-section h2 { margin-top: 0 !important; }
 .split-section p { font-size: 13px; }
 .publication-list { max-width: 760px; }
+
+.interest-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(2rem, 5vw, 4rem);
+  margin: 0.5rem 0 0;
+}
+
+.interest-group {
+  min-width: 0;
+  padding: 1rem 1.15rem;
+  border: 1px solid rgba(22, 58, 82, 0.10);
+  border-radius: 0.3rem 1.4rem 0.3rem 1.4rem;
+  background: rgba(255, 255, 255, 0.55);
+  box-shadow: 5px 5px 0 rgba(38, 116, 154, 0.09);
+}
+
+.interest-group h3 {
+  margin: 0 0 0.65rem;
+}
+
+.interest-group ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+
+.interest-group li {
+  margin-bottom: 0.7rem;
+}
+
+.interest-group li:last-child {
+  margin-bottom: 0;
+}
 .publication-list dl { margin: 0; }
 .publication-list dt { float: left; clear: left; width: 58px; color: var(--muted); font-size: 12px; }
 .publication-list dd { margin: 0 0 16px 72px; padding-bottom: 15px; border-bottom: 1px solid #e0e5de; }
@@ -92,19 +193,23 @@ nav a:hover { color: var(--pine); }
 nav a[aria-current="page"] { color: var(--pine); font-weight: 600; }
 .intro { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 68px; padding: 78px 0 72px; }
 .portrait {
+  width: 180px;
+  aspect-ratio: 1;
+  display: block;
+  margin: 0 auto 12px;
+  overflow: hidden;
+  border-radius: 50%;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+.portrait img {
   width: 100%;
-  aspect-ratio: 1 / 1.12;
-  display: grid;
-  place-items: center;
-  color: var(--ink);
-  background: radial-gradient(circle at 50% 34%, #fff 0 19%, transparent 19.5%), linear-gradient(145deg, #d9e6e3, #adc7c2);
-  border: 5px solid #fff;
-  border-radius: 50% 48% 51% 46%;
-  box-shadow: 0 0 0 1px #d9d5cd, 11px -13px 0 -11px #ded9cf;
-  font-family: "Lora", Georgia, serif;
-  font-size: 54px;
-  font-weight: 500;
-  letter-spacing: 0;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
 }
 .caption, .eyebrow, .office, .section-label p, footer, time, .pub-year, .small-note {
   font-family: "Manrope", Arial, sans-serif;
