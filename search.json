@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "2026\n\nXuanLong Nguyen, Yun Wei. Optimal transport based theory for latent structured models. Statistical Science, accepted.\n\n2026\n\nYilei Zhang, Yun Wei, Aritra Guha, XuanLong Nguyen. A Bayesian approach to learning mixtures of nonparametric components. Submitted.\n\n2025\n\nYuliang Xu, Yun Wei, Li Ma. Distributional Evaluation of Generative Models via Relative Density Ratio. Submitted.\n\n2025\n\nLin Zhou, Qianyun Wang, Yun Wei, Jingjing Wang. Large Deviations for Sequential Tests of Statistical Sequence Matching. Submitted.\n\n2023\n\nYun Wei, Sayan Mukherjee, XuanLong Nguyen. Minimum Phi-distance estimators for finite mixing measures. Submitted.\n\n2023\n\nYun Wei, Bala Rajaratnam, Alfred Hero. A unified framework for correlation mining in ultra-high dimension. IEEE Transactions on Information Theory.\n\n2022\n\nYun Wei, XuanLong Nguyen. Convergence of de Finetti’s mixing measure in latent structure models for observed exchangeable sequences. The Annals of Statistics.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Asymptotics for outlier hypothesis testing. IEEE International Symposium on Information Theory.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Second-order asymptotically optimal outlier hypothesis testing. IEEE Transactions on Information Theory.\n\n2021\n\nLin Zhou, Yun Wei, Alfred Hero. Second-Order Asymptotically Optimal Universal Outlying Sequence Detection with Reject Option. IEEE Information Theory Workshop.\n\n2012\n\nYun Wei, Yiming Jiang. The Equivalence Proof of Three Combinatorial Solutions on the Problem of Rational Division of Stakes. Acta Scientiarum Naturallum, Universitatis Nakaiensis (in Chinese)."
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "",
-    "text": "2026\n\nXuanLong Nguyen, Yun Wei. Optimal transport based theory for latent structured models. Statistical Science, accepted.\n\n2026\n\nYilei Zhang, Yun Wei, Aritra Guha, XuanLong Nguyen. A Bayesian approach to learning mixtures of nonparametric components. Submitted.\n\n2025\n\nYuliang Xu, Yun Wei, Li Ma. Distributional Evaluation of Generative Models via Relative Density Ratio. Submitted.\n\n2025\n\nLin Zhou, Qianyun Wang, Yun Wei, Jingjing Wang. Large Deviations for Sequential Tests of Statistical Sequence Matching. Submitted.\n\n2023\n\nYun Wei, Sayan Mukherjee, XuanLong Nguyen. Minimum Phi-distance estimators for finite mixing measures. Submitted.\n\n2023\n\nYun Wei, Bala Rajaratnam, Alfred Hero. A unified framework for correlation mining in ultra-high dimension. IEEE Transactions on Information Theory.\n\n2022\n\nYun Wei, XuanLong Nguyen. Convergence of de Finetti’s mixing measure in latent structure models for observed exchangeable sequences. The Annals of Statistics.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Asymptotics for outlier hypothesis testing. IEEE International Symposium on Information Theory.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Second-order asymptotically optimal outlier hypothesis testing. IEEE Transactions on Information Theory.\n\n2021\n\nLin Zhou, Yun Wei, Alfred Hero. Second-Order Asymptotically Optimal Universal Outlying Sequence Detection with Reject Option. IEEE Information Theory Workshop.\n\n2012\n\nYun Wei, Yiming Jiang. The Equivalence Proof of Three Combinatorial Solutions on the Problem of Rational Division of Stakes. Acta Scientiarum Naturallum, Universitatis Nakaiensis (in Chinese)."
-  },
-  {
-    "objectID": "stat-6390.html",
-    "href": "stat-6390.html",
-    "title": "STAT 6390",
-    "section": "",
-    "text": "Term: Fall 2026\nInstructor: Yun Wei"
-  },
-  {
-    "objectID": "stat-6390.html#high-dimensional-probability-and-statistics",
-    "href": "stat-6390.html#high-dimensional-probability-and-statistics",
-    "title": "STAT 6390",
-    "section": "",
-    "text": "Term: Fall 2026\nInstructor: Yun Wei"
-  },
-  {
-    "objectID": "stat-6390.html#course-description",
-    "href": "stat-6390.html#course-description",
-    "title": "STAT 6390",
-    "section": "Course description",
-    "text": "Course description\nModern statistical applications often involve data sets in which the number of variables is comparable to, or substantially larger than, the number of observations. This course develops the mathematical and statistical foundations needed to analyze high-dimensional data.\nTopics include concentration inequalities, random vectors and random matrices, high-dimensional geometry, sparse linear models, regularization methods, the Lasso, model selection, low-rank matrix estimation, principal component analysis, graphical models, minimax lower bounds, and computational considerations.\nParticular emphasis is placed on how structural assumptions, including sparsity, low rank, and graphical structure, make statistically meaningful estimation possible in high dimensions. Students will use nonasymptotic techniques to derive finite-sample guarantees and evaluate estimators by consistency, prediction error, estimation error, and variable-selection performance."
-  },
-  {
-    "objectID": "stat-6390.html#textbooks",
-    "href": "stat-6390.html#textbooks",
-    "title": "STAT 6390",
-    "section": "Textbooks",
-    "text": "Textbooks\n\nMartin J. Wainwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint.\nRoman Vershynin, High-Dimensional Probability (optional)."
-  },
-  {
-    "objectID": "stat-6390.html#lecture-notes",
-    "href": "stat-6390.html#lecture-notes",
-    "title": "STAT 6390",
-    "section": "Lecture notes",
-    "text": "Lecture notes\nThe lecture notes evolve during the semester.\nDownload lecture notes (PDF)"
-  },
-  {
-    "objectID": "stat-6390.html#schedule",
-    "href": "stat-6390.html#schedule",
-    "title": "STAT 6390",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\nDate\nTopic\n\n\n\n\nAugust 24\nSubGaussian (Sec 2.1.1 and Sec 2.1.2) Scribed lecture notes\n\n\nAugust 26\nSubGaussian (Sec 2.1.2) and Sub-exponential (Sec 2.1.3) Scribed lecture notes\n\n\nAugust 31\nSymmetrization (Vershynin’s book Sec 6.3) and Sub-exponential (Sec 2.1.3)\n\n\nSeptember 2\nSub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3)\n\n\nSeptember 7\nSub-exponential (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2)"
-  },
-  {
     "objectID": "students.html",
     "href": "students.html",
     "title": "Students",
@@ -82,6 +26,34 @@
     "title": "Students",
     "section": "Prospective students",
     "text": "Prospective students\n\nUTD PhD students and prospective research interns are welcome to email yun.wei@utdallas.edu with a CV and transcripts."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach probability, statistics, scientific computing, and machine learning."
+  },
+  {
+    "objectID": "teaching.html#university-of-texas-at-dallas",
+    "href": "teaching.html#university-of-texas-at-dallas",
+    "title": "Teaching",
+    "section": "University of Texas at Dallas",
+    "text": "University of Texas at Dallas\n\nSTAT 6390\nHigh Dimensional Probability and Statistics. Fall 2026.\n\n\nSTAT 6341\nNumerical Linear Algebra and Statistical Computing. Fall 2024-2026.\n\n\nSTAT 4352\nMathematical Statistics. Spring 2025-2026."
+  },
+  {
+    "objectID": "teaching.html#university-of-michigan",
+    "href": "teaching.html#university-of-michigan",
+    "title": "Teaching",
+    "section": "University of Michigan",
+    "text": "University of Michigan\n\nMATH 115\nDifferential Calculus. Winter 2015, Fall 2017, Winter 2018.\n\n\nMATH 116\nIntegral Calculus. Fall 2016."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-experience",
+    "href": "teaching.html#teaching-assistant-experience",
+    "title": "Teaching",
+    "section": "Teaching assistant experience",
+    "text": "Teaching assistant experience\n\nSTATS 509: Statistical Methods in Financial Models. Winter 2020. Instructor: Brian Thelen.\nEECS 545: Machine Learning. Fall 2018 and Fall 2019. Instructors: Clayton Scott and Alfred Hero.\nSTATS 608: Monte Carlo Methods in Statistics. Winter 2019. Instructor: XuanLong Nguyen.\nMATH 525: Stochastic Process. Fall 2015. Instructor: Sergey Nadtochiy.\nMATH 623: Computational Finance. Fall 2014. Instructor: Sergey Nadtochiy.\nMATH 216: Differential Equations. Winter 2014. Instructor: Harry D’Souza.\nMichigan Math and Science Scholars Program. Summer 2014. Instructor: Doug Shaw.\nMATH 571: Numerical Linear Algebra and Math Labs. Fall 2013. Instructor: Shravan Veerapaneni."
   },
   {
     "objectID": "index.html",
@@ -126,31 +98,59 @@
     "text": "News\n\nAugust 2026. Optimal transport based theory for latent structured models was accepted at Statistical Science.\nAugust 2026. I organized and gave a talk in the JSM 2026 session, “Novel theoretical development in mixture models and latent variable models,” in Boston, Massachusetts.\nAugust 2026. Distributional Evaluation of Generative Models via Relative Density Ratio received the STAI-X Best Abstract Award.\nJune 2026. I gave a talk at ICSA 2026 in Arlington, Virginia.\nMay 2026. I hosted Mengxin Wang’s seminar talk at UT Dallas."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "stat-6390.html",
+    "href": "stat-6390.html",
+    "title": "STAT 6390",
     "section": "",
-    "text": "I teach probability, statistics, scientific computing, and machine learning."
+    "text": "Term: Fall 2026\nInstructor: Yun Wei"
   },
   {
-    "objectID": "teaching.html#university-of-texas-at-dallas",
-    "href": "teaching.html#university-of-texas-at-dallas",
-    "title": "Teaching",
-    "section": "University of Texas at Dallas",
-    "text": "University of Texas at Dallas\n\nSTAT 6390\nHigh Dimensional Probability and Statistics. Fall 2026.\n\n\nSTAT 6341\nNumerical Linear Algebra and Statistical Computing. Fall 2024-2026.\n\n\nSTAT 4352\nMathematical Statistics. Spring 2025-2026."
+    "objectID": "stat-6390.html#high-dimensional-probability-and-statistics",
+    "href": "stat-6390.html#high-dimensional-probability-and-statistics",
+    "title": "STAT 6390",
+    "section": "",
+    "text": "Term: Fall 2026\nInstructor: Yun Wei"
   },
   {
-    "objectID": "teaching.html#university-of-michigan",
-    "href": "teaching.html#university-of-michigan",
-    "title": "Teaching",
-    "section": "University of Michigan",
-    "text": "University of Michigan\n\nMATH 115\nDifferential Calculus. Winter 2015, Fall 2017, Winter 2018.\n\n\nMATH 116\nIntegral Calculus. Fall 2016."
+    "objectID": "stat-6390.html#course-description",
+    "href": "stat-6390.html#course-description",
+    "title": "STAT 6390",
+    "section": "Course description",
+    "text": "Course description\nModern statistical applications often involve data sets in which the number of variables is comparable to, or substantially larger than, the number of observations. This course develops the mathematical and statistical foundations needed to analyze high-dimensional data.\nTopics include concentration inequalities, random vectors and random matrices, high-dimensional geometry, sparse linear models, regularization methods, the Lasso, model selection, low-rank matrix estimation, principal component analysis, graphical models, minimax lower bounds, and computational considerations.\nParticular emphasis is placed on how structural assumptions, including sparsity, low rank, and graphical structure, make statistically meaningful estimation possible in high dimensions. Students will use nonasymptotic techniques to derive finite-sample guarantees and evaluate estimators by consistency, prediction error, estimation error, and variable-selection performance."
   },
   {
-    "objectID": "teaching.html#teaching-assistant-experience",
-    "href": "teaching.html#teaching-assistant-experience",
-    "title": "Teaching",
-    "section": "Teaching assistant experience",
-    "text": "Teaching assistant experience\n\nSTATS 509: Statistical Methods in Financial Models. Winter 2020. Instructor: Brian Thelen.\nEECS 545: Machine Learning. Fall 2018 and Fall 2019. Instructors: Clayton Scott and Alfred Hero.\nSTATS 608: Monte Carlo Methods in Statistics. Winter 2019. Instructor: XuanLong Nguyen.\nMATH 525: Stochastic Process. Fall 2015. Instructor: Sergey Nadtochiy.\nMATH 623: Computational Finance. Fall 2014. Instructor: Sergey Nadtochiy.\nMATH 216: Differential Equations. Winter 2014. Instructor: Harry D’Souza.\nMichigan Math and Science Scholars Program. Summer 2014. Instructor: Doug Shaw.\nMATH 571: Numerical Linear Algebra and Math Labs. Fall 2013. Instructor: Shravan Veerapaneni."
+    "objectID": "stat-6390.html#textbooks",
+    "href": "stat-6390.html#textbooks",
+    "title": "STAT 6390",
+    "section": "Textbooks",
+    "text": "Textbooks\n\nMartin J. Wainwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint.\nRoman Vershynin, High-Dimensional Probability (optional)."
+  },
+  {
+    "objectID": "stat-6390.html#lecture-notes",
+    "href": "stat-6390.html#lecture-notes",
+    "title": "STAT 6390",
+    "section": "Lecture notes",
+    "text": "Lecture notes\nThe lecture notes evolve during the semester.\nDownload lecture notes (PDF)"
+  },
+  {
+    "objectID": "stat-6390.html#schedule",
+    "href": "stat-6390.html#schedule",
+    "title": "STAT 6390",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nDate\nTopic\n\n\n\n\nAugust 24\nSubGaussian (Sec 2.1.1 and Sec 2.1.2) Scribed lecture notes\n\n\nAugust 26\nSubGaussian (Sec 2.1.2) and Sub-exponential (Sec 2.1.3) Scribed lecture notes\n\n\nAugust 31\nSymmetrization (Vershynin’s book Sec 6.3) and Sub-exponential (Sec 2.1.3)\n\n\nSeptember 2\nSub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3)\n\n\nSeptember 9\nSub-exponential (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "2026\n\nXuanLong Nguyen, Yun Wei. Optimal transport based theory for latent structured models. Statistical Science, accepted.\n\n2026\n\nYilei Zhang, Yun Wei, Aritra Guha, XuanLong Nguyen. A Bayesian approach to learning mixtures of nonparametric components. Submitted.\n\n2025\n\nYuliang Xu, Yun Wei, Li Ma. Distributional Evaluation of Generative Models via Relative Density Ratio. Submitted.\n\n2025\n\nLin Zhou, Qianyun Wang, Yun Wei, Jingjing Wang. Large Deviations for Sequential Tests of Statistical Sequence Matching. Submitted.\n\n2023\n\nYun Wei, Sayan Mukherjee, XuanLong Nguyen. Minimum Phi-distance estimators for finite mixing measures. Submitted.\n\n2023\n\nYun Wei, Bala Rajaratnam, Alfred Hero. A unified framework for correlation mining in ultra-high dimension. IEEE Transactions on Information Theory.\n\n2022\n\nYun Wei, XuanLong Nguyen. Convergence of de Finetti’s mixing measure in latent structure models for observed exchangeable sequences. The Annals of Statistics.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Asymptotics for outlier hypothesis testing. IEEE International Symposium on Information Theory.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Second-order asymptotically optimal outlier hypothesis testing. IEEE Transactions on Information Theory.\n\n2021\n\nLin Zhou, Yun Wei, Alfred Hero. Second-Order Asymptotically Optimal Universal Outlying Sequence Detection with Reject Option. IEEE Information Theory Workshop.\n\n2012\n\nYun Wei, Yiming Jiang. The Equivalence Proof of Three Combinatorial Solutions on the Problem of Rational Division of Stakes. Acta Scientiarum Naturallum, Universitatis Nakaiensis (in Chinese)."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "2026\n\nXuanLong Nguyen, Yun Wei. Optimal transport based theory for latent structured models. Statistical Science, accepted.\n\n2026\n\nYilei Zhang, Yun Wei, Aritra Guha, XuanLong Nguyen. A Bayesian approach to learning mixtures of nonparametric components. Submitted.\n\n2025\n\nYuliang Xu, Yun Wei, Li Ma. Distributional Evaluation of Generative Models via Relative Density Ratio. Submitted.\n\n2025\n\nLin Zhou, Qianyun Wang, Yun Wei, Jingjing Wang. Large Deviations for Sequential Tests of Statistical Sequence Matching. Submitted.\n\n2023\n\nYun Wei, Sayan Mukherjee, XuanLong Nguyen. Minimum Phi-distance estimators for finite mixing measures. Submitted.\n\n2023\n\nYun Wei, Bala Rajaratnam, Alfred Hero. A unified framework for correlation mining in ultra-high dimension. IEEE Transactions on Information Theory.\n\n2022\n\nYun Wei, XuanLong Nguyen. Convergence of de Finetti’s mixing measure in latent structure models for observed exchangeable sequences. The Annals of Statistics.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Asymptotics for outlier hypothesis testing. IEEE International Symposium on Information Theory.\n\n2022\n\nLin Zhou, Yun Wei, Alfred Hero. Second-order asymptotically optimal outlier hypothesis testing. IEEE Transactions on Information Theory.\n\n2021\n\nLin Zhou, Yun Wei, Alfred Hero. Second-Order Asymptotically Optimal Universal Outlying Sequence Detection with Reject Option. IEEE Information Theory Workshop.\n\n2012\n\nYun Wei, Yiming Jiang. The Equivalence Proof of Three Combinatorial Solutions on the Problem of Rational Division of Stakes. Acta Scientiarum Naturallum, Universitatis Nakaiensis (in Chinese)."
   }
 ]
