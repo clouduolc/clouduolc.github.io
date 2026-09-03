@@ -34,4 +34,4 @@ The lecture notes evolve during the semester.
 | August 26 | SubGaussian (Sec 2.1.2) and Sub-exponential (Sec 2.1.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec02.pdf) |
 | August 31 | Symmetrization (Vershynin's book Sec 6.3) and Sub-exponential (Sec 2.1.3) |
 | September 2 | Sub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3) |
-| September 7 | Sub-exponential  (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2) | 
+| September 9 | Sub-exponential  (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2) | 
