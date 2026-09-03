@@ -14,7 +14,11 @@ Undergraduate course on mathematical statistics (statistical inference).
 ## Textbooks
 
 - George Casella and Roger L. Berger, *Statistical Inference*, 2nd edition.
-- Hyunwoong Chang's lecture notes (other reference).
+- Other reference: Dr. Hyunwoong Chang's lecture notes.
+
+## Lecture notes
+
+[Download lecture notes (PDF)](files/stat_4352_spring_2026/Stat_4352_lecture_notes.pdf)
 
 ## Schedule (Spring 2026)
 
