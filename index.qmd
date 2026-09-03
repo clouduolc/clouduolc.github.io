@@ -6,7 +6,7 @@ title: "Yun Wei"
 ::: {.profile-main}
 ## About me
 
-I am an Assistant Professor of Statistics in the Department of Mathematical Sciences at the University of Texas at Dallas. I am broadly interested in foundations of AI, data science, statistics, and related fields.
+I am an Assistant Professor in the Department of Mathematical Sciences at the University of Texas at Dallas. I am broadly interested in foundations of AI, data science, statistics, and related fields.
 
 Previously, I was a postdoctoral researcher at SAMSI and the Department of Statistical Science at Duke University, where I worked with [Sayan Mukherjee](https://sayanmuk.github.io/) and [Eric Laber](https://www.laber-labs.com/).
 
@@ -52,7 +52,9 @@ Nankai University
 ::: {.profile-column}
 ## Employment
 
-**Assistant Professor of Statistics**  
+**Assistant Professor**
+Department of Mathematical Sciences  
+Texas AI Research Institute
 University of Texas at Dallas
 
 **Postdoctoral Researcher**  
