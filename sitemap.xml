@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clouduolc.github.io/students.html</loc>
-    <lastmod>2026-09-03T02:34:09.656Z</lastmod>
+    <loc>https://clouduolc.github.io/research.html</loc>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
   </url>
   <url>
-    <loc>https://clouduolc.github.io/teaching.html</loc>
-    <lastmod>2026-09-03T02:34:09.656Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clouduolc.github.io/index.html</loc>
-    <lastmod>2026-09-03T02:34:09.656Z</lastmod>
+    <loc>https://clouduolc.github.io/stat-6341.html</loc>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
   </url>
   <url>
     <loc>https://clouduolc.github.io/stat-6390.html</loc>
-    <lastmod>2026-09-03T02:34:09.656Z</lastmod>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
   </url>
   <url>
-    <loc>https://clouduolc.github.io/research.html</loc>
-    <lastmod>2026-09-03T02:34:09.656Z</lastmod>
+    <loc>https://clouduolc.github.io/students.html</loc>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clouduolc.github.io/index.html</loc>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clouduolc.github.io/teaching.html</loc>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clouduolc.github.io/stat-4352.html</loc>
+    <lastmod>2026-09-03T03:01:41.898Z</lastmod>
   </url>
 </urlset>
