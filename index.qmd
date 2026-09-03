@@ -67,3 +67,7 @@ SAMSI and Duke University
 - **August 2026.** [Distributional Evaluation of Generative Models via Relative Density Ratio](https://arxiv.org/abs/2510.25507) received the STAI-X Best Abstract Award.
 - **June 2026.** I gave a talk at ICSA 2026 in Arlington, Virginia.
 - **May 2026.** I hosted Mengxin Wang's seminar talk at UT Dallas.
+
+::: {.more-link}
+[Past news →](news.qmd)
+:::

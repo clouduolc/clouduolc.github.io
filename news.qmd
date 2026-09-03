@@ -1,0 +1,16 @@
+---
+title: "News"
+---
+
+- **August 2026.** [Optimal transport based theory for latent structured models](http://arxiv.org/abs/2601.11465) was accepted at *Statistical Science*.
+- **August 2026.** I organized and gave a talk in the JSM 2026 session, “Novel theoretical development in mixture models and latent variable models,” in Boston, Massachusetts.
+- **August 2026.** [Distributional Evaluation of Generative Models via Relative Density Ratio](https://arxiv.org/abs/2510.25507) received the STAI-X Best Abstract Award.
+- **June 2026.** I gave a talk at ICSA 2026 in Arlington, Virginia.
+- **May 2026.** I hosted Mengxin Wang's seminar talk at UT Dallas.
+- **April 2026.** I hosted Yifan Hu's visit and seminar talk at UT Dallas.
+- **March 2026.** [A Bayesian approach to learning mixtures of nonparametric components](https://arxiv.org/abs/2512.12988) is available online.
+- **February 2026.** Seminar at Texas A&M University Corpus Christi, hosted by Harry Lee.
+- **January 2026.** [Optimal transport based theory for latent structured models](http://arxiv.org/abs/2601.11465) is available online.
+- **October 2025.** [Distributional Evaluation of Generative Models via Relative Density Ratio](https://arxiv.org/abs/2510.25507) is available online.
+- **September 2025.** An updated version of [Minimum $\Phi$-distance estimators for finite mixing measures](https://arxiv.org/abs/2304.10052) is available online.
+- **June 2025.** [Large Deviations for Sequential Tests of Statistical Sequence Matching](https://arxiv.org/abs/2506.03976) is available online.
