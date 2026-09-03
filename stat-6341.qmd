@@ -1,0 +1,22 @@
+---
+title: "STAT 6341"
+---
+
+## Numerical Linear Algebra and Statistical Computing
+
+**Term:** Fall 2024, Fall 2025, Fall 2026  
+**Instructor:** Yun Wei
+
+## Course description
+
+This graduate course covers numerical linear algebra and statistical computing, including matrix decomposition, optimization, and machine learning.
+
+## Schedule (Fall 2026)
+
+| Date | Topic |
+|---|---|
+| August 24 | Multi-Armed Bandit and epsilon greedy algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.1-2.2 |
+| August 26 | epsilon greedy and UCB algorithms, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3 |
+| August 31 | UCB algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1 |
+| September 2 | Convex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton's method; strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
+| September 9 | Strong convexity, Boyd and Vandenberghe Sec 9.1.2 |

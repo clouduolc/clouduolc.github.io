@@ -10,11 +10,11 @@ I teach probability, statistics, scientific computing, and machine learning.
 
 High Dimensional Probability and Statistics. Fall 2026.
 
-### STAT 6341
+### [STAT 6341](stat-6341.qmd)
 
 Numerical Linear Algebra and Statistical Computing. Fall 2024-2026.
 
-### STAT 4352
+### [STAT 4352](stat-4352.qmd)
 
 Mathematical Statistics. Spring 2025-2026.
 

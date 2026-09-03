@@ -1,0 +1,52 @@
+---
+title: "STAT 4352"
+---
+
+## Mathematical Statistics (Statistical Inference)
+
+**Term:** Spring 2025 (39 students), Spring 2026 (57 students)  
+**Instructor:** Yun Wei
+
+## Course description
+
+Undergraduate course on mathematical statistics (statistical inference).
+
+## Textbooks
+
+- George Casella and Roger L. Berger, *Statistical Inference*, 2nd edition.
+- Hyunwoong Chang's lecture notes (other reference).
+
+## Schedule (Spring 2026)
+
+| Date | Topics and textbook chapters |
+|---|---|
+| 1/20 | Distributions of functions of random variables (Section 2.1) |
+| 1/22 | Distributions of functions of random variables (Section 2.1) and Bivariate Transformations (Section 4.3) |
+| 1/27 | Cancel due to campus closure. Hw and reading assigned |
+| 1/29 | Bivariate Transformations (Section 4.3) |
+| 2/3 | Sums of random samples (Section 5.2) |
+| 2/5 | Sums of random samples (Section 5.2) and Location and Scale Families (Section 3.5). Reading: Section 3.3 |
+| 2/10 | Sums of random samples (Section 5.2) and sample statistics from normal distributions (Section 5.3) |
+| 2/12 | Sample statistics from normal distributions (Section 5.3) |
+| 2/17 | Order Statistics (Section 5.4) |
+| 2/19 | Order Statistics (Section 5.4), Section 7.1, MLE (Section 7.2.2) |
+| 2/24 | MLE (Section 7.2.2) |
+| 2/26 | MLE (Section 7.2.2) |
+| 3/3 | MLE (Section 7.2.2), Method of moments (Section 7.2.1) |
+| 3/5 | Midterm Review |
+| 3/10 | Midterm Exam |
+| 3/12 | Exponential Family (Section 3.4) |
+| 3/24 | Exponential Family (Section 3.4) and Sufficient Statistics (Section 6.1 and 6.2.1) |
+| 3/26 | Sufficient Statistics (Section 6.1 and 6.2.1) |
+| 3/31 | Sufficient Statistics (Section 6.1 and 6.2.1) and Comparison of estimators (Section 7.3) |
+| 4/2 | Comparison of estimators (Section 7.3) |
+| 4/7 | Comparison of estimators (Section 7.3) |
+| 4/9 | Complete Statistics (Section 6.2.4) and Comparison of estimators (Section 7.3) |
+| 4/14 | Comparison of estimators (Section 7.3) |
+| 4/16 | Indicator function and Comparison of estimators (Section 7.3) |
+| 4/21 | Hypothesis testing (Section 8.1 and Section 8.2.1) |
+| 4/23 | Hypothesis testing (Section 8.3.1) |
+| 4/28 | Hypothesis testing |
+| 4/30 | Hypothesis testing |
+| 5/5 | Final Exam Review |
+| 5/7 | Final Exam |
