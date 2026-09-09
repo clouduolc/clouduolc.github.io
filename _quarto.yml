@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Yun Wei"
+  google-analytics: "G-TVK6GZXDQL"
   navbar:
     left:
       - href: index.qmd
