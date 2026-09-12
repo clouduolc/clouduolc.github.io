@@ -102,7 +102,7 @@
     "href": "stat-6390.html#schedule",
     "title": "STAT 6390",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\nDate\nTopic\n\n\n\n\nAugust 24\nSubGaussian (Sec 2.1.1 and Sec 2.1.2) Scribed lecture notes\n\n\nAugust 26\nSubGaussian (Sec 2.1.2) and Sub-exponential (Sec 2.1.3) Scribed lecture notes\n\n\nAugust 31\nSymmetrization (Vershynin’s book Sec 6.3) and Sub-exponential (Sec 2.1.3) Scribed lecture notes\n\n\nSeptember 2\nSub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3)\n\n\nSeptember 9\nSub-exponential (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2)"
+    "text": "Schedule\n\n\n\nDate\nTopic\n\n\n\n\nAugust 24\nSubGaussian (Sec 2.1.1 and Sec 2.1.2) Scribed lecture notes\n\n\nAugust 26\nSubGaussian (Sec 2.1.2) and Sub-exponential (Sec 2.1.3) Scribed lecture notes\n\n\nAugust 31\nSymmetrization (Vershynin’s book Sec 6.3) and Sub-exponential (Sec 2.1.3) Scribed lecture notes\n\n\nSeptember 2\nSub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3)\n\n\nSeptember 9\nSub-exponential (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2)\n\n\nSeptember 14\nBounded difference inequality (Sec 2.2.2) and Liptchize function of Gaussian variables"
   },
   {
     "objectID": "index.html",
@@ -200,7 +200,7 @@
     "href": "stat-6341.html#schedule-fall-2026",
     "title": "STAT 6341",
     "section": "Schedule (Fall 2026)",
-    "text": "Schedule (Fall 2026)\n\n\n\nDate\nTopic\n\n\n\n\nAugust 24\nMulti-Armed Bandit and epsilon greedy algorithm, Foster and Rakhlin Section 2.1-2.2\n\n\nAugust 26\nepsilon greedy and UCB algorithms, Foster and Rakhlin Section 2.2-2.3\n\n\nAugust 31\nUCB algorithm, Foster and Rakhlin Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1\n\n\nSeptember 2\nConvex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton’s method; strong convexity, Boyd and Vandenberghe Sec 9.1.2\n\n\nSeptember 9\nStrong convexity, Boyd and Vandenberghe Sec 9.1.2"
+    "text": "Schedule (Fall 2026)\n\n\n\nDate\nTopic\n\n\n\n\nAugust 24\nMulti-Armed Bandit and epsilon greedy algorithm, Foster and Rakhlin Section 2.1-2.2 Scribed lecture notes\n\n\nAugust 26\nepsilon greedy and UCB algorithms, Foster and Rakhlin Section 2.2-2.3 Scribed lecture notes\n\n\nAugust 31\nUCB algorithm, Foster and Rakhlin Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1 Scribed lecture notes\n\n\nSeptember 2\nConvex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton’s method; strong convexity, Boyd and Vandenberghe Sec 9.1.2\n\n\nSeptember 9\nStrong convexity, Boyd and Vandenberghe Sec 9.1.2"
   },
   {
     "objectID": "students.html",
