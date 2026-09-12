@@ -35,3 +35,4 @@ The lecture notes evolve during the semester.
 | August 31 | Symmetrization (Vershynin's book Sec 6.3) and Sub-exponential (Sec 2.1.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec03.pdf) |
 | September 2 | Sub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3) |
 | September 9 | Sub-exponential  (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2) | 
+| September 14 | Bounded difference inequality (Sec 2.2.2) and Liptchize function of Gaussian variables | 

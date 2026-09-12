@@ -15,8 +15,8 @@ This graduate course covers numerical linear algebra and statistical computing, 
 
 | Date | Topic |
 |---|---|
-| August 24 | Multi-Armed Bandit and epsilon greedy algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.1-2.2 |
-| August 26 | epsilon greedy and UCB algorithms, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3 |
-| August 31 | UCB algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1 |
+| August 24 | Multi-Armed Bandit and epsilon greedy algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.1-2.2 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec01.pdf)  |
+| August 26 | epsilon greedy and UCB algorithms, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec02.pdf) |
+| August 31 | UCB algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec03.pdf) |
 | September 2 | Convex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton's method; strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
 | September 9 | Strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
