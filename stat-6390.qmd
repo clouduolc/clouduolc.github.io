@@ -35,5 +35,8 @@ The lecture notes evolve during the semester.
 | August 31 | Symmetrization (Vershynin's book Sec 6.3) and Sub-exponential (Sec 2.1.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec03.pdf) |
 | September 2 | Sub-exponential, Bernstein Bounds, Jonson-Lindenstrauss Lemma (Sec 2.1.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec04.pdf) |
 | September 9 | Sub-exponential  (Sec 2.1.3) and Azuma-Hoeffding inequality (Sec 2.2.2) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec05.pdf) | 
-| September 14 | Bounded difference inequality (Sec 2.2.2) and Liptchize function of Gaussian variables | 
+| September 14 | Bounded difference inequality (Sec 2.2.2) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec06.pdf) | 
 | September 16 | Liptchize function of Gaussian variables (Sec 2.3) and Entropic methods (Sec 3.1) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec07.pdf) | 
+| September 21 | Entropic methods (Sec 3.1.2) and Wasserstein distances (Sec 3.3.1)  | 
+| September 23 |  Wasserstein distances (Sec 3.3.1, Sec 3.3.2) and Uniform LLN (Sec 4.1)  | 
+| September 28 |  Uniform LLN and Rademacher Complexity (Sec 4.1 and Sec 4.2)  | 
