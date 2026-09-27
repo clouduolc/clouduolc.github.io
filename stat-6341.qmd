@@ -20,3 +20,8 @@ This graduate course covers numerical linear algebra and statistical computing, 
 | August 31 | UCB algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec03.pdf) |
 | September 2 | Convex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton's method; strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
 | September 9 | Strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
+| September 14 | Ridge Regression |
+| September 16 | Ridge Regression: GD, SGD |
+| September 21 | SGD; and robust regression: MM algorithms; constrained optimization (Boyd and Vandenberghe Sec 5.1-5.2) |
+| September 23 | constrained optimization and KKT condition (Boyd and Vandenberghe Sec 5.1, 5.2, 5.5) |
+| September 28 |  equality constrained minimization problems (Boyd and Vandenberghe Sec 10.1) |
