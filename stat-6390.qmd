@@ -43,3 +43,4 @@ The lecture notes evolve during the semester.
 | September 30 |  Uniform Law of Large Number; empirical processes,  and Rademacher Complexity (Sec 4.1 and Sec 4.2)   | 
 | October 5 |  Rademacher Complexity and VC dimension (Sec 4.2 and Sec 4.3)   | 
 | October 7 |  Covering and packing (Sec 5.1)   | 
+| October 12 |  VC dimension and Covering and packing (Sec 4.3 and Sec 5.1)   | 
