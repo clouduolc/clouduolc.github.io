@@ -11,6 +11,13 @@ title: "STAT 6341"
 
 This graduate course covers numerical linear algebra and statistical computing, including matrix decomposition, optimization, and machine learning.
 
+## Lecture notes
+
+The lecture notes evolve during the semester. <span style="color: red;">It only contains material from the lectures that has no slides provided.</span>
+
+[Download lecture notes (PDF)](files/stat_6341_fall_2026/Stat_6341_lecture_notes.pdf)
+
+
 ## Schedule (Fall 2026)
 
 | Date | Topic |
@@ -24,6 +31,6 @@ This graduate course covers numerical linear algebra and statistical computing, 
 | September 16 | Ridge Regression: GD, SGD |
 | September 21 | SGD; and robust regression: MM algorithms; constrained optimization (Boyd and Vandenberghe Sec 5.1-5.2) |
 | September 23 | constrained optimization and KKT condition (Boyd and Vandenberghe Sec 5.1, 5.2, 5.5) |
-| September 28 |  equality constrained minimization problems (Boyd and Vandenberghe Sec 10.1) |
+| September 28 |  equality constrained minimization problems (Boyd and Vandenberghe Sec 10.1)  [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec04.pdf) |
 | September 30 |   equality constrained minimization problems (Boyd and Vandenberghe Sec 10.1) and Newton's method (sec 9.5) |
 | October 5 |   Newton's method (Boyd and Vandenberghe sec 9.5) and Newton's method with equality constraint ( Sec 10.2) |
