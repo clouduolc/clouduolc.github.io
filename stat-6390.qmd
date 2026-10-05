@@ -40,7 +40,7 @@ The lecture notes evolve during the semester.
 | September 21 | Entropic methods (Sec 3.1.2) and Wasserstein distances (Sec 3.3.1) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec08.pdf)  | 
 | September 23 |  Wasserstein distances (Sec 3.3.1, Sec 3.3.2) and Uniform LLN (Sec 4.1) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec09.pdf) | 
 | September 28 |  Uniform Law of Large Number and empirical risk minimization  (Sec 4.1 )  | 
-| September 30 |  Uniform Law of Large Number; empirical processes,  and Rademacher Complexity (Sec 4.1 and Sec 4.2)   | 
+| September 30 |  Uniform Law of Large Number; empirical processes,  and Rademacher Complexity (Sec 4.1 and Sec 4.2)  [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec11.pdf)  | 
 | October 5 |  Rademacher Complexity and VC dimension (Sec 4.2 and Sec 4.3)   | 
 | October 7 |  Covering and packing (Sec 5.1)   | 
 | October 12 |  VC dimension and Covering and packing (Sec 4.3 and Sec 5.1)   | 
