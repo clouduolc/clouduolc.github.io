@@ -30,12 +30,12 @@ The lecture notes evolve during the semester. <span style="color: red;">It only 
 | August 24 | Multi-Armed Bandit and epsilon greedy algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.1-2.2 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec01.pdf)  |
 | August 26 | epsilon greedy and UCB algorithms, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec02.pdf) |
 | August 31 | UCB algorithm, [Foster and Rakhlin](https://arxiv.org/abs/2312.16730) Section 2.2-2.3; Convex functions, Boyd and Vandenberghe Sec 3.1 [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec03.pdf) |
-| September 2 | Convex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton's method; strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
-| September 9 | Strong convexity, Boyd and Vandenberghe Sec 9.1.2 |
-| September 14 | Ridge Regression |
-| September 16 | Ridge Regression: GD, SGD |
-| September 21 | SGD; and robust regression: MM algorithms; constrained optimization (Boyd and Vandenberghe Sec 5.1-5.2) |
-| September 23 | constrained optimization and KKT condition (Boyd and Vandenberghe Sec 5.1, 5.2, 5.5) |
+| September 2 | Convex functions, Boyd and Vandenberghe Sec 3.1; Bisection and Newton's method; strong convexity, Boyd and Vandenberghe Sec 9.1.2 (slide)|
+| September 9 | Strong convexity, Boyd and Vandenberghe Sec 9.1.2 (slide)|
+| September 14 | Ridge Regression (slide) |
+| September 16 | Ridge Regression: GD, SGD (slide)|
+| September 21 | SGD; and robust regression: MM algorithms; constrained optimization (Boyd and Vandenberghe Sec 5.1-5.2) (slide)|
+| September 23 | constrained optimization and KKT condition (Boyd and Vandenberghe Sec 5.1, 5.2, 5.5) (slide)|
 | September 28 |  equality constrained minimization problems (Boyd and Vandenberghe Sec 10.1)  [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec04.pdf) |
 | September 30 |   equality constrained minimization problems (Boyd and Vandenberghe Sec 10.1) and Newton's method (sec 9.5) [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec05.pdf) |
 | October 5 |   Newton's method (Boyd and Vandenberghe sec 9.5) and Newton's method with equality constraint ( Sec 10.2) [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec06.pdf) |
