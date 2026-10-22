@@ -42,3 +42,6 @@ The lecture notes evolve during the semester. <span style="color: red;">It only 
 | October 7 |   PCA [Guest lecture, Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec07.pdf)  |
 | October 12 |   Vector space, norms, dual space (Beck Chapter 1) [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec08.pdf) |
 | October 14 |   dual space (Beck Sec 1.11), closed functions (Beck Section 2.1) and Subgradients (Beck Sec. 3.1) [Scribed lecture notes](files/stat_6341_fall_2026/lectures/lec09.pdf) |
+| October 19 |   Subgradients (slide) |
+| October 21 |   Subgradients (slide) |
+| October 26 |   Subgradients (slide); Subgradient method (slide) |
