@@ -1,5 +1,11 @@
 ---
 title: "STAT 6390"
+header-includes: |
+  <style>
+  #quarto-document-content section.level2 > h2 {
+    margin-top: 2.25rem;
+  }
+  </style>
 ---
 
 ## High Dimensional Probability and Statistics
