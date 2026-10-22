@@ -21,6 +21,9 @@ Particular emphasis is placed on how structural assumptions, including sparsity,
 - Roman Vershynin, *High-Dimensional Probability* (optional).
 - Richard J. Samworth, *Modern Statistical Methods and Theory: An Introduction to Nonparametric and High-Dimensional Statistics (optional)*
 
+## Other similar courses: 
+- Clay Scott, Statistical Learning Theory, https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/index.html
+
 ## Lecture notes
 
 The lecture notes evolve during the semester.
