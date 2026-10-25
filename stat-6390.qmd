@@ -59,7 +59,7 @@ The lecture notes evolve during the semester.
 | October 5 |  Rademacher Complexity and VC dimension (Sec 4.2 and Sec 4.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec12.pdf)   | 
 | October 7 |  Covering and packing (Sec 5.1) [Guest lecture, Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec13.pdf)  | 
 | October 12 |  VC dimension (Sec 4.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec14.pdf)  | 
-| October 14 |  VC dimension and Covering and packing (Sec 4.3 and Sec 5.1)   | 
-| October 19 |  Covering and packing (Sec 5.1); Gaussian and Rademacher complexity (Sec 5.2)   | 
-| October 21 |  Gaussian and Rademacher complexity (Sec 5.2); sub-Gaussian processes (Sec 5.3)   | 
+| October 14 |  VC dimension and Covering and packing (Sec 4.3 and Sec 5.1) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec15.pdf)   | 
+| October 19 |  Covering and packing (Sec 5.1); Gaussian and Rademacher complexity (Sec 5.2) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec16.pdf)  | 
+| October 21 |  Gaussian and Rademacher complexity (Sec 5.2); sub-Gaussian processes (Sec 5.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec17.pdf)  | 
 | October 26 |  sub-Gaussian processes (Sec 5.3)   | 
