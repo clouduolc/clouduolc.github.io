@@ -45,3 +45,5 @@ The lecture notes evolve during the semester. <span style="color: red;">It only 
 | October 19 |   Subgradients (slide) |
 | October 21 |   Subgradients (slide) |
 | October 26 |   Subgradients (slide); Subgradient method (slide) |
+| October 28 |   Subgradient method (slide); Proximal gradient method (slide)  |
+| Nov 2 |   Revisit convex functions, L-smooth functions, strongly convex functions (slide)  |
