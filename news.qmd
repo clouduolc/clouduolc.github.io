@@ -2,6 +2,9 @@
 title: "News"
 ---
 
+- **Nov 2026.** I gave a talk at SLDS 2026 in New York city.
+- **Oct 2026.** I attended a IMSI workshop on generative models.
+- **Sep 2026.** Zijiang joined the team.
 - **August 2026.** [Optimal transport based theory for latent structured models](http://arxiv.org/abs/2601.11465) was accepted at *Statistical Science*.
 - **August 2026.** I organized and gave a talk in the JSM 2026 session, “Novel theoretical development in mixture models and latent variable models,” in Boston, Massachusetts.
 - **August 2026.** [Distributional Evaluation of Generative Models via Relative Density Ratio](https://arxiv.org/abs/2510.25507) received the STAI-X Best Abstract Award.
