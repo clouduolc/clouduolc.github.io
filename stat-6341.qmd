@@ -48,5 +48,6 @@ The lecture notes evolve during the semester. <span style="color: red;">It only 
 | October 28 |   Subgradient method (slide); Proximal gradient method (slide)  |
 | Nov 2 |   Revisit convex functions, L-smooth functions, strongly convex functions (slide)  |
 | Nov 4 |   Proximal gradient method; Conjugate function (slide)  |
-| Nov 11 |    Conjugate function (same slide as 11/4) ; Proximal mapping (slide)  |
-| Nov 14 |     Proximal mapping  |
+| Nov 9 |    Conjugate function (same slide as 11/4) ; Proximal mapping (slide)  |
+| Nov 11 |     Gaussian mixture model  (slide) ; EM algorithm (slide)  |
+| Nov 16 |     Gaussian mixture model   ; EM algorithm   |

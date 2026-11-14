@@ -68,3 +68,4 @@ The lecture notes evolve during the semester.
 | Nov 4 |  Covariance matrix estimation (Sec 6.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec21.pdf)   | 
 | Nov 9 |  Matrix analysis (Sec 6.4.1) and tail conditions for random matrices (Sec 6.4.2) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec22.pdf)   | 
 | Nov 11 |  Tail bounds for random matrices (Section 6.4.2-6.4.4)   | 
+| Nov 16 |  Tail bounds for random matrices (Section 6.4.2-6.4.5)   | 
