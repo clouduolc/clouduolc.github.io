@@ -66,5 +66,5 @@ The lecture notes evolve during the semester.
 | October 28 |  sub-Gaussian processes and Dudley integral bound (Sec 5.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec19.pdf)  | 
 | Nov 2 |  Preliminary on linear algebra (Section 6.1) and Wishart matrices (Sec 6.2)  [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec20.pdf)  | 
 | Nov 4 |  Covariance matrix estimation (Sec 6.3) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec21.pdf)   | 
-| Nov 9 |  Matrix analysis (Sec 6.4.1) and tail conditions for random matrices (Sec 6.4.2)   | 
+| Nov 9 |  Matrix analysis (Sec 6.4.1) and tail conditions for random matrices (Sec 6.4.2) [Scribed lecture notes](files/stat_6390_fall_2026/lectures/lec22.pdf)   | 
 | Nov 11 |  Tail bounds for random matrices (Section 6.4.2-6.4.4)   | 
